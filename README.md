@@ -6,7 +6,7 @@ A CI/CD pipeline built around Zero-Trust security principles — combining polic
 
 
 
-> 📌 This was built as a 2-person group project. See [Contributions](#contributions) below for what each of us worked on.
+
 
 
 
